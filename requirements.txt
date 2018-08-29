@@ -12,4 +12,3 @@ six==1.10.0
 mxnet
 scikit-image
 face_recognition
-dlib
